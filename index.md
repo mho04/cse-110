@@ -1,2 +1,15 @@
+# About Me
+**Name**: Michelle Ho 
 
-My name is Michelle. I'm currently a sophmore at UCSD. My major is Computer Science and I have a minor in ICAM.
+**PID**: A17326824
+
+**Major**: Computer Science
+
+**Minor**: ICAM
+
+**Year**: Sophmore
+
+
+---
+ ## Links to other published pages
+- 
